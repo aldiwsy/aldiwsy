@@ -14,11 +14,11 @@
 const me = {
     pronouns: "He" | "Him",
     code: ["Golang", "Javascript"],
-    askMeAbout: ["web dev", "tech", "app dev"],
+    askMeAbout: ["tech", "web dev", "app dev"],
     technologies: {
-	frontEnd: ["React", "Vue"],
+	frontEnd: ["React"],
         backEnd: ["Node.js", "Golang"],
-        databases: ["PostgeeSQL", "SQLite", "Mongo", "Redis", "YottaDB],
+        databases: ["PostgeeSQL", "SQLite", "Mongo", "Redis"],
         devOps: ["AWS", "GCP", "Jenkins", "SonarQube", "Kubernetes", "Docker", "ELK"],
         messageQueue: ["RabbitMQ", "Kafka"],
         misc: ["Git", "RPC", "GraphQL", "Firebase", "Socket.IO",  "open-cv", "bash"],
