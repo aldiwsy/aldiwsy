@@ -18,7 +18,7 @@ const me = {
     technologies: {
 	frontEnd: ["React"],
         backEnd: ["Node.js", "Golang"],
-        databases: ["PostgeeSQL", "SQLite", "Mongo", "Redis"],
+        databases: ["PostgreSQL", "SQLite", "Mongo", "Redis"],
         devOps: ["AWS", "GCP", "Jenkins", "SonarQube", "Kubernetes", "Docker", "ELK"],
         messageQueue: ["RabbitMQ", "Kafka"],
         misc: ["Git", "RPC", "GraphQL", "Firebase", "Socket.IO",  "open-cv", "bash"],
