@@ -3,8 +3,8 @@
 <p><em>Software Enginner at <a href="http://www.tnis.com">TN INCORPORATION</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 
-[![](https://img.shields.io/badge/Gmail-syldie.aldiwijaya%40gmail.com-red)](mailto:syldie.aldiwijaya@gmail.com)
 [![Linkedin: aldiwijaya](https://img.shields.io/badge/-aldiwijaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aldiwijaya/)](https://www.linkedin.com/in/aldiwijaya/)
+[![](https://img.shields.io/badge/Gmail-syldie.aldiwijaya%40gmail.com-red)](mailto:syldie.aldiwijaya@gmail.com)
 [![Twitter: awsyldie](https://img.shields.io/twitter/follow/aldiwsy?style=social)](https://twitter.com/aldiwsy)
 
 
