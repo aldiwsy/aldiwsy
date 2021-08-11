@@ -1,6 +1,6 @@
 <h2> Hi, I'm Syldie Aldi Wijaya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">TN INCORPORATION</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Software Enginner at <a href="http://www.tnis.com">TN INCORPORATION</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 
 [![](https://img.shields.io/badge/Gmail-syldie.aldiwijaya%40gmail.com-red)](mailto:syldie.aldiwijaya@gmail.com)
