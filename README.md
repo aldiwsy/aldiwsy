@@ -5,7 +5,7 @@
 
 [![](https://img.shields.io/badge/Gmail-syldie.aldiwijaya%40gmail.com-red)](mailto:syldie.aldiwijaya@gmail.com)
 [![Linkedin: aldiwijaya](https://img.shields.io/badge/-aldiwijaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aldiwijaya/)](https://www.linkedin.com/in/aldiwijaya/)
-[![Twitter: awsyldie](https://img.shields.io/twitter/follow/awsyldie?style=social)](https://twitter.com/awsyldie)
+[![Twitter: awsyldie](https://img.shields.io/twitter/follow/aldiwsy?style=social)](https://twitter.com/aldiwsy)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
