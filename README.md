@@ -17,15 +17,15 @@ const me = {
     askMeAbout: ["tech", "web dev", "app dev"],
     technologies: {
 	frontEnd: ["React"],
-        backEnd: ["Node.js", "Golang"],
+        backEnd: ["Golang", "Node.js"],
         databases: ["PostgreSQL", "SQLite", "Mongo", "Redis"],
         devOps: ["AWS", "GCP", "Jenkins", "SonarQube", "Kubernetes", "Docker", "ELK"],
-        messageQueue: ["RabbitMQ", "Kafka"],
+        messageQueue: ["RabbitMQ", "Kafka", Google Pub-Sub],
         misc: ["Git", "RPC", "GraphQL", "Firebase", "Socket.IO",  "open-cv", "bash"],
         tools: ["VSCode", "Postman", "Swagger", "Jira", "Trello", "Draw.io", "Sequence.org"],
     },
     architecture: ["Microservice Architecture", "Event-Driven Architecture", "Single Page Applications", "Serverless Architecture"],
-    memberships: ["GoJakarta","JakartaJS"],
+    memberships: ["GoJakarta", "JakartaJS"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
